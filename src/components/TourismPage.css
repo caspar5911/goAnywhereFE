@@ -1,0 +1,126 @@
+/* TourismPage.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main {
+    padding: 20px;
+}
+
+.hero {
+    background-image: url('/public/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background-color: #ff5e3a;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.destinations {
+    padding: 20px;
+}
+
+.destination-card {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.destination-card img {
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+}
+
+.destination-details h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.destination-details p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.read-more {
+    background-color: #ff5e3a;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.activities {
+    padding: 20px;
+}
+
+.activity-card {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.activity-card img {
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+}
+
+.activity-details h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.activity-details p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}
