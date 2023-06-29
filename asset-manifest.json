@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/goAnywhereFE/static/css/main.ed05f897.css",
-    "main.js": "/goAnywhereFE/static/js/main.1f8f9085.js",
+    "main.js": "/goAnywhereFE/static/js/main.b21d673f.js",
     "static/js/787.1e97d9f3.chunk.js": "/goAnywhereFE/static/js/787.1e97d9f3.chunk.js",
     "index.html": "/goAnywhereFE/index.html",
     "main.ed05f897.css.map": "/goAnywhereFE/static/css/main.ed05f897.css.map",
-    "main.1f8f9085.js.map": "/goAnywhereFE/static/js/main.1f8f9085.js.map",
+    "main.b21d673f.js.map": "/goAnywhereFE/static/js/main.b21d673f.js.map",
     "787.1e97d9f3.chunk.js.map": "/goAnywhereFE/static/js/787.1e97d9f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed05f897.css",
-    "static/js/main.1f8f9085.js"
+    "static/js/main.b21d673f.js"
   ]
 }
