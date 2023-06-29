@@ -25,7 +25,7 @@ const TourismPage: React.FC = () => {
         <section className="destinations">
           <h2>Popular Destinations</h2>
           <div className="destination-card">
-            <img src="/images/cute.jpg" alt="Destinatisson" />
+            <img src="images/cute.jpg" alt="Destinatisson" />
             <div className="destination-details">
               <h3>Destination Name</h3>
               <p>Explore the beauty of this amazing destination with stunning landscapes and rich culture.</p>
@@ -33,7 +33,7 @@ const TourismPage: React.FC = () => {
             </div>
           </div>
           <div className="destination-card">
-            <img src="/images/cute1.jpg" alt="Destination" />
+            <img src="images/cute1.jpg" alt="Destination" />
             <div className="destination-details">
               <h3>Destination Name</h3>
               <p>Discover the hidden gems of this beautiful location and immerse yourself in the local traditions.</p>
@@ -46,7 +46,7 @@ const TourismPage: React.FC = () => {
         <section className="activities">
           <h2>Popular Activities</h2>
           <div className="activity-card">
-            <img src="/images/Merlion-Statue.jpg" alt="Activity" />
+            <img src="images/Merlion-Statue.jpg" alt="Activity" />
             <div className="activity-details">
               <h3>Activity Name</h3>
               <p>Embark on an unforgettable adventure with this exciting activity and create lasting memories.</p>
@@ -54,7 +54,7 @@ const TourismPage: React.FC = () => {
             </div>
           </div>
           <div className="activity-card">
-            <img src="/images/Marina-Bay-Sands.jpg" alt="Activity" />
+            <img src="images/Marina-Bay-Sands.jpg" alt="Activity" />
             <div className="activity-details">
               <h3>Activity Name</h3>
               <p>Experience the thrill of this amazing activity and enjoy an adrenaline-pumping experience.</p>
